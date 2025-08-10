@@ -1,0 +1,65 @@
+2025-08-09 18:04:05 info: Lingma [version: 2.5.4, lang: en, platform: linux, arch: x64, appName=code-server, runMode: local, extensionKind=2, remoteName=dsw-gateway-cn-hangzhou.data.aliyun.com, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-08-09 18:04:05 info: Congratulations, "Lingma" is now active!
+2025-08-09 18:04:05 info: start update lingma binary: /root/.local/share/code-server/extensions/alibaba-cloud.tongyi-lingma-2.5.4-universal/dist
+2025-08-09 18:04:05 info: lingma info not exist. infoFile=/mnt/data/.lingma_storage/.info
+2025-08-09 18:04:05 info: read lingma info. pid=undefined
+2025-08-09 18:04:05 info: unzipLingma: start
+2025-08-09 18:04:06 info: unzip onclose
+2025-08-09 18:04:06 info: unzip onfinish
+2025-08-09 18:04:06 info: lingma info not exist. infoFile=/mnt/data/.lingma_storage/.info
+2025-08-09 18:04:06 info: read cosy info empty, start lingma process now. 
+2025-08-09 18:04:06 info: try to start lingma process.
+2025-08-09 18:04:06 info: current lingma version is 2.5.4, retry times: 0
+2025-08-09 18:04:06 info: start lingma process successfully.
+2025-08-09 18:04:09 info: lingma try to connect to language server.
+2025-08-09 18:04:09 info: try to create ws connection
+2025-08-09 18:04:09 info: lingma connected to language server successfully.
+2025-08-09 18:04:09 info: auth status synced. id=, status=1, whitelist=1, token=
+2025-08-09 18:04:09 info: auth status synced. id=, status=1, whitelist=1, token=
+2025-08-09 18:14:04 info: try to create ws connection
+2025-08-09 18:24:04 info: try to create ws connection
+2025-08-09 18:34:04 info: try to create ws connection
+2025-08-09 18:44:04 info: try to create ws connection
+2025-08-09 18:54:04 info: try to create ws connection
+2025-08-09 19:04:04 info: try to create ws connection
+2025-08-09 19:14:04 info: try to create ws connection
+2025-08-09 19:24:04 info: try to create ws connection
+2025-08-09 19:34:04 info: try to create ws connection
+2025-08-09 19:44:04 info: try to create ws connection
+2025-08-09 19:54:04 info: try to create ws connection
+2025-08-09 20:04:04 info: try to create ws connection
+2025-08-09 20:14:04 info: try to create ws connection
+2025-08-09 20:24:04 info: try to create ws connection
+2025-08-09 20:34:04 info: try to create ws connection
+2025-08-09 20:44:04 info: try to create ws connection
+2025-08-09 20:54:04 info: try to create ws connection
+2025-08-09 21:04:04 info: try to create ws connection
+2025-08-09 21:14:04 info: try to create ws connection
+2025-08-10 09:43:21 info: Lingma [version: 2.5.4, lang: en, platform: linux, arch: x64, appName=code-server, runMode: local, extensionKind=2, remoteName=dsw-gateway-cn-hangzhou.data.aliyun.com, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-08-10 09:43:21 info: Congratulations, "Lingma" is now active!
+2025-08-10 09:43:21 info: check exist binary path, no need update.
+2025-08-10 09:43:22 info: lingma process[pid=8358, port=36510] check port not alive, start lingma process now.
+2025-08-10 09:43:22 info: try to start lingma process.
+2025-08-10 09:43:22 info: current lingma version is 2.5.4, retry times: 0
+2025-08-10 09:43:22 info: start lingma process successfully.
+2025-08-10 09:43:25 info: lingma try to connect to language server.
+2025-08-10 09:43:25 info: try to create ws connection
+2025-08-10 09:43:25 info: lingma connected to language server successfully.
+2025-08-10 09:43:25 info: auth status synced. id=, status=1, whitelist=1, token=
+2025-08-10 09:43:25 info: auth status synced. id=, status=1, whitelist=1, token=
+2025-08-10 09:44:53 info: Lingma [version: 2.5.4, lang: en, platform: linux, arch: x64, appName=code-server, runMode: local, extensionKind=2, remoteName=dsw-gateway-cn-hangzhou.data.aliyun.com, wsl=undefined, remoteContainers=undefined, extensionMode=1] is starting now!
+2025-08-10 09:44:53 info: Congratulations, "Lingma" is now active!
+2025-08-10 09:44:54 info: check exist binary path, no need update.
+2025-08-10 09:44:54 info: lingma try to connect to language server.
+2025-08-10 09:44:54 info: try to create ws connection
+2025-08-10 09:44:54 info: lingma connected to language server successfully.
+2025-08-10 09:44:54 info: auth status synced. id=, status=1, whitelist=1, token=
+2025-08-10 09:53:20 info: try to create ws connection
+2025-08-10 09:54:53 info: try to create ws connection
+2025-08-10 10:03:20 info: try to create ws connection
+2025-08-10 10:04:53 info: try to create ws connection
+2025-08-10 10:13:20 info: try to create ws connection
+2025-08-10 10:14:53 info: try to create ws connection
+2025-08-10 10:23:20 info: try to create ws connection
+2025-08-10 10:33:20 info: try to create ws connection
+2025-08-10 10:43:20 info: try to create ws connection
